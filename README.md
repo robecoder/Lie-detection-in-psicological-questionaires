@@ -1,4 +1,4 @@
-# Lie-detection-in-psicological-questionaires
+# Lie-detection-in-psicological-questionnaires
 In this project we develop a procedure to addres the problem of Lie detection in psicologycal questionnaries.
 Usually a psicological questionnaire is composed of sentences, and for each sentence the respondee has to rate how much he/she agrees with that sentence,
 on a scale from 1 to 5 for example.
